@@ -75,4 +75,4 @@ The dashboard dynamically calculates:
 * 📉 Average Budget per Campaign
 
 ---
-Preview - 
+Preview - (https://github.com/RupakDas12/Meta-ad-performance-dashboard/blob/main/Meta-ad.png)
