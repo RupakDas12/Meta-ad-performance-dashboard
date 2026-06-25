@@ -34,9 +34,6 @@ Ad-type performance data (Carousel vs. Image: Impressions, Clicks, CTR, Purchase
 
 
 
-Note: Replace this section with your actual data source — e.g. Meta Ads Manager export (CSV), Kaggle dataset, or a sample/synthetic dataset used for practice.
-
-
 
 5. Features & Highlights
 
@@ -48,4 +45,4 @@ Note: Replace this section with your actual data source — e.g. Meta Ads Manage
 📈 Trend analysis — Weekly stacked bar chart and hourly line chart to identify peak engagement periods for better ad scheduling.
 🗂️ Ad-type performance comparison — Matrix table comparing Carousel vs. Image ads across CTR, Purchase Rate, Engagement Rate, and Conversion Rate.
 🎛️ Interactive slicers — Filter by Campaign Name, Target Interest, and Month for granular, self-service analysis.
-💰 Budget visibility — Total Budget and Average Budget per Campaign cards to tie performance directly to spend
+💰 Budget visibility — Total Budget and Average Budget per Campaign cards to tie performance directly to spend.
